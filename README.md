@@ -18,4 +18,4 @@ _Lake Sebago and LaHave River_
 
 _All 3 populations_
 
-* hisat2_LC.sh/hisat2_SE_LH.sh: Produce BAM files of aligned reads for Lake Champlain individuals / for Lake Sebago and LaHave River pools
+* hisat2_LC.sh / hisat2_SE_LH.sh: Produce BAM files of aligned reads for Lake Champlain individuals / for Lake Sebago and LaHave River pools
