@@ -2,8 +2,6 @@
 
 #### These scripts include all analyses conducted in .....
 
-File descriptions:
-
 _Lake Champlain_
 
 * gatk.sh: For Lake Champlain BAM files output from HISAT2, uses GATK v.3.8 and v4 to produce GVCF variant files
