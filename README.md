@@ -1,6 +1,6 @@
 # Ssalar_population_comparison
 
-#### These scripts include all analyses conducted in .....
+#### These scripts include all analyses conducted in [citation for paper comparing LC/SE/LH]
 
 _Lake Champlain_
 
