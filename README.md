@@ -1,4 +1,4 @@
-# Ssalar_population_comparison
+# Salmo_salar_population_comparisons
 
 #### These scripts include all analyses conducted in [citation for paper comparing LC/SE/LH]
 
