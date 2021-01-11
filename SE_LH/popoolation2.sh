@@ -53,3 +53,7 @@ cat chroms_only.txt | while read line
 	--fastq-type sanger --output ./chrom_syncs/"$line"_10_pools.sync
 
 	done
+	
+cat ./chrom_syncs/*.sync >> all_chrom.sync
+
+grep -Pv "0:0:0:0:0:0" all_chrom.sync > no_zeroes_all_chrom.sync
