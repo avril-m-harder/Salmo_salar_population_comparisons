@@ -15,5 +15,5 @@ _Lake Sebago and LaHave River_
 * popoolation2.sh: Creates mpileup and sync files
 
 _All 3 populations_
-
+* map_3_pop.R: Creates map of populations in Fig. 1
 * hisat2_LC.sh / hisat2_SE_LH.sh: Produce BAM files of aligned reads for Lake Champlain individuals / for Lake Sebago and LaHave River pools
