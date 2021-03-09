@@ -7,6 +7,7 @@ _Lake Champlain_
 * gatk.sh: For Lake Champlain BAM files output from HISAT2, uses GATK v.3.8 and v4 to produce GVCF variant files
 * genomicsdb.sh: Uses GVCF variants files produced by gatk.sh to call genotypes jointly (output is VCF files)
 * variant_filtration.sh: Filters variants in VCF files produced by genomicsdb.sh and concatenates all loci into a single VCF file
+* LC_vcf_filtering.R: Filters VCF file produced by variant_filtration.sh based on GATK pass filters, depth, and number of samples genotyped requirements
 
 _Lake Sebago and LaHave River_
 
@@ -17,3 +18,4 @@ _Lake Sebago and LaHave River_
 _All 3 populations_
 * map_3_pop.R: Creates map of populations in Fig. 1
 * hisat2_LC.sh / hisat2_SE_LH.sh: Produce BAM files of aligned reads for Lake Champlain individuals / for Lake Sebago and LaHave River pools
+* Fig_03_components_ZBTB18.R: Creates components to assemble gene diagram for Figure 3.
