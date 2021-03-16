@@ -14,6 +14,7 @@ _Lake Sebago and LaHave River_
 * sra_download.sh: Downloads reads for Lake Sebago and LaHave River pools from NCBI SRA (requires sra_access_list.txt)
 * trimmomatic.sh: Uses Trimmomatic to clean reads (script specific to Lake Sebago/LaHave River samples, but same settings were used for Lake Champlain individuals) and FastQC to check quality before and after cleaning
 * popoolation2.sh: Creates mpileup and sync files
+* SE_LH_sync_file_filtering.R: Filters sync file produced by Popoolation2 by depth requirements and checks for variation in read depth across pools
 
 _All 3 populations_
 * map_3_pop.R: Creates map of populations in Fig. 1
