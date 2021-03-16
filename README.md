@@ -19,3 +19,4 @@ _All 3 populations_
 * map_3_pop.R: Creates map of populations in Fig. 1
 * hisat2_LC.sh / hisat2_SE_LH.sh: Produce BAM files of aligned reads for Lake Champlain individuals / for Lake Sebago and LaHave River pools
 * Fig_03_components_ZBTB18.R: Creates components to assemble gene diagram for Figure 3.
+* 3_population_analyses.R: Bulk of analyses for project from identification of final set of >23k SNPs through identification of outlier loci, heterozygosity and F<sub>ST</sub> calculations, etc.
