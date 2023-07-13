@@ -1,6 +1,6 @@
 # Salmo_salar_population_comparisons
 
-### Scripts and files associated with article, "Genomic signatures of adaptation to novel environments: hatchery and life history-associated loci in landlocked and anadromous Atlantic salmon (*Salmo salar*)" available at [CJFAS]([https://academic.oup.com/gbe/article/14/1/evac005/6506520](https://cdnsciencepub.com/doi/full/10.1139/cjfas-2021-0066))
+### Scripts and files associated with article, "Genomic signatures of adaptation to novel environments: hatchery and life history-associated loci in landlocked and anadromous Atlantic salmon (*Salmo salar*)" available at [CJFAS](https://cdnsciencepub.com/doi/full/10.1139/cjfas-2021-0066)
 
 _Lake Champlain_
 
